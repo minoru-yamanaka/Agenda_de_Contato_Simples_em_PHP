@@ -1,0 +1,18 @@
+/agenda-contatos/
+    /assets/
+        /css/
+            style.css
+        /js/
+            script.js
+    /data/
+        contacts.json
+    /includes/
+        config.php
+        functions.php
+        header.php
+        footer.php
+    index.php
+    adicionar.php
+    visualizar.php
+    editar.php
+    deletar.php
